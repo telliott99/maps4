@@ -1,0 +1,88 @@
+(NM-TX) [-104.031575,32.000000]
+US Hwy 285
+Fort Stockton, TX [-102.910440,30.901539]
+I- 10
+Sonora, TX [-100.647725,30.578990]
+I- 10
+San Antonio, TX [-98.510952,29.396395]
+I- 10
+Houston,TX [-95.341418,29.769606]
+I- 10
+(TX-LA) [-93.701580,30.128066]
+I- 10
+Lake Charles, LA [-93.179550,30.247258]
+
+Lake Charles, LA [-93.179550,30.247258]
+I- 10
+Lafayette [-92.016225,30.259473]
+US Hwy 90
+Morgan City, LA [-91.198931,29.701302]
+US Hwy 90
+Mathews, LA [-90.573000,29.708227]
+US Hwy 90
+New Orleans, LA [-90.074628,29.963114]
+
+New Orleans, LA [-90.074628,29.963114]
+I- 10
+10-55 Jct, LA [-90.436200,30.088200]
+I- 55
+(LA-MS) [-90.505695,31]
+I- 55
+Jackson, MS [-90.186748,32.283148]
+I- 55
+Canton, MS [-90.034933,32.611369]
+Hwy 16
+Carthage, MS [-89.712617,32.703747]
+Natchez Trace Pkwy
+Kosciusko, MS [-89.568382,33.048635]
+Natchez Trace Pkwy
+Tupelo, MS [-88.725071,34.300130]
+
+Tupelo, MS [-88.725071,34.300130]
+Natchez Trace Pkwy
+(MS-AL) [-88.130818,34.644902]
+Natchez Trace Pkwy
+43-72 Jct, AL [-88.018448,34.761633]
+Natchez Trace Pkwy
+(AL-TN) [-87.821138,35.004461]
+Natchez Trace Pkwy
+Nashville, TN [-86.789402,36.156301]
+
+Nashville, TN [-86.789402,36.156301]
+I- 65
+(TN-KY) [-86.564176,36.633765]
+I- 65
+Louisville, KY [-85.753091,38.256220]
+
+Louisville, KY [-85.753091,38.256220]
+I- 64
+Lexington, KY [-84.430600,38.054714]
+I- 75
+North Corbin, KY [-84.111870,36.977806]
+25
+(KY-TN) [-83.676219,36.597911]
+25
+North Corbin, KY [-84.111870,36.977806]
+25E
+(KY-TN) [-83.670745,36.601443]
+State Rte 25
+Bean Station, TN [-83.287414,36.336161]
+11W
+Kingsport, TN [-82.582831,36.556636]
+I- 26
+Johnson City, TN [-82.338913,36.309259]
+
+Johnson City, TN [-82.338913,36.309259]
+I- 26
+(TN-NC) [-82.560587,35.957182]
+I- 26
+Asheville, NC [-82.562890,35.593015]
+I- 26
+(NC-SC) [-82.168332,35.194311]
+I- 26
+Columbia, SC [-81.107364,33.980997]
+I- 26
+Charleston, SC [-79.948624,32.793238]
+State Hwy 171
+Folly Beach, SC [-79.945089,32.659130]
+

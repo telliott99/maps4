@@ -1,0 +1,24 @@
+https://geopandas.org/en/stable/docs/reference/tools.html
+
+geopandas
+  clip
+  .cx
+  overlay(gdf,gdf2)
+
+overlay does set operations
+  intersection
+  union
+  identity
+  difference or symmetric difference
+
+it can be called as
+gpd.overlay(gdf,gdf2)
+gdf.overlay(gdf2)
+
+also 
+sjoin spatial join
+
+to do:
+get geodata for utah and the lake 
+try adding points with geocode
+

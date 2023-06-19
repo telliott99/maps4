@@ -1,0 +1,378 @@
+Washington
+Lake Quinalt
+Lake Crescent
+Port Angeles
+Sequim
+Port Townsend
+Olympia
+Seattle
+
+Oregon
+Portland
+Salem
+Lincoln City
+Depoe Bay
+Newport
+Florence
+Coos Bay
+Cannon Beach
+Astoria
+The Dalles
+Sandy
+Government Camp
+Baker City
+
+California
+Los Angeles
+Santa Ana
+Laguna Beach
+San Clemente
+Oceanside
+Carlsbad
+Leucadia
+Encinitas
+Solana Beach
+Del Mar
+La Jolla
+San Diego
+#--
+Escondido
+Temecula
+Riverside
+San Bernardino
+Lake Arrowhead
+Big Bear Lake
+Redlands
+Beaumont
+Banning
+Thousand Palms
+Palm Springs
+Indio
+Desert Center
+Blythe
+#--
+Victorville
+Barstow
+Baker
+Moutain Pass
+Bakersfield
+Fresno
+Madera
+Merced
+Modesto
+Stockton
+Sacramento
+Colfax
+Truckee
+#--
+Kettleman City
+Los Banos
+Independence
+Lone Pine
+Bishop
+Big Pine
+Mojave
+#--
+Santa Monica
+Oxnard
+Ventura
+Santa Barbara
+Solvang
+Santa Maria
+Pismo Beach
+San Luis Obispo
+Morro Bay
+Atascadero
+Paso Robles
+King City
+Salinas
+Monterey
+Carmel-By-The-Sea
+Santa Cruz
+San Francisco
+Berkeley
+San Rafael
+Vallejo
+Santa Rosa
+Healdsburg
+
+Nevada
+Las Vegas
+Mesquite
+Winnemucca
+Battle Mountain
+Elko
+Wells
+West Wendover
+
+Utah
+St. George
+Cedar City
+Parowan
+Beaver
+Fillmore
+Spanish Fork
+Provo
+Park City
+Price
+Green River
+Moab
+Monticello
+Blanding
+Bluff
+Mexican Hat
+Big Water
+Kanab
+Mt. Carmel Junction
+Glendale
+Hatch
+Bryce
+Vernal
+
+Arizona
+Phoenix
+New Hope
+Quartzsite
+New River
+Black Canyon City
+Camp Verde
+Sedona
+Flagstaff
+Williams
+Grand Canyon Village
+Cameron
+Page
+
+Colorado
+Durango
+Bayfiedl
+Pagosa Springs
+Del Norte
+Fort Garland
+Walsenburg
+Pueblo
+Canon City
+Salida
+Gunnison
+Montrose
+Ouray
+Silverton
+Dinosaur
+Steamboat Springs
+Wolcott
+Leadville
+Colorado Springs
+Denver
+Boulder
+Glenwood Springs
+Estes Park
+
+New Mexico
+Questa
+Taos
+Truchas
+Santa Fe
+Clines Corners
+Encino
+Roswell
+Carlsbad
+Loving
+Shiprock
+Farmington
+Aztec
+
+Idaho
+Lewiston
+Coure d'Alene
+Sand Point
+Bonner's Ferry
+Carey
+Rexburg
+
+Wyoming
+Jackson
+Green River
+
+---------------------
+
+Arkansas
+Little Rock
+Fort Smith
+
+Oklahoma
+Oklahoma City
+
+Nebraska
+Omaha
+Lincoln
+Columbus
+Newman Grove
+
+Kansas
+Topeka
+Salina
+Hays
+Goodland
+
+South Dakota
+Vermillion
+
+Missouri
+Columbia
+Kansas City
+St. Joseph
+Rockport
+St. Louis
+
+Iowa
+Des Moines
+Iowa City
+Davenport
+
+Wisconsin
+Madison
+
+Illinois
+Chicago
+Springfield
+Litchfield
+Champaign
+Glen Carbon
+
+Indiana
+Indianapolis
+
+Kentucky
+Louisville
+
+Tennessee
+Memphis
+Nashville
+Knoxville
+Johnson City
+Chattanooga
+
+Ohio
+Columbus
+
+Louisiana
+Lake Charles
+New Orleans
+New Iberia
+Morgan City
+
+Mississippi
+Jackson
+Kosciusko
+Tupelo
+
+Alabama
+Birmingham
+Mobile
+Tuscaloosa
+Mobile
+Destin
+
+Georgia
+Atlanta
+Savannah
+
+Florida
+Jacksonville
+St. Augustine
+Cape Canaveral
+Melbourne
+Sebastian
+Vero Beach
+West Palm Beach
+Miami
+Coral Gables
+Key West
+Naples
+Fort Myers
+Sarasota
+St. Petersburg
+
+South Carolina
+Charleston
+Columbia
+
+North Carolina
+Asheville
+Charlotte
+Statesville
+Galax
+
+Virginia
+Wytheville
+Richmond
+Winchester
+Culpepper
+
+West Virginia
+Morgantown
+Elkins
+Summersville
+Charleston
+Huntington
+
+District of Columbia
+Washington
+
+Maryland
+Cumberland
+Hancock
+Hagerstown
+Frederick
+Baltimore
+Philadelphia
+
+Pennsylvania
+Pittsburgh
+Harrisburg
+Allentown
+
+Delaware
+Wilmington
+
+New Jersey
+Princeton
+
+New York
+New York City
+Cold Spring Harbor
+Montauk
+Albany
+
+Massachusetts
+Boston
+Portsmouth
+
+Rhode Island
+Providence
+
+New Hampshire
+Manchester
+
+Maine
+Camden
+Bar Harbor
+Lubec
+Calais
+
+Connecticut
+
+Vermont
+
+Michigan
+
+North Dakota
+
+Minnesota
+
+Hawaii
+
+Alaska
+
+
+

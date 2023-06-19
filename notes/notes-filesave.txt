@@ -1,0 +1,6 @@
+I finally realized that 
+98/160 Jct, AZ
+etc.
+
+are failing to save b/c 
+/ is not legal in a file path!

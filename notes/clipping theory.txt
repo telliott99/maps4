@@ -1,0 +1,22 @@
+We frequently want to grab only a segment of a highway that lies between two points, when we have a geodataframe containing the whole thing.
+
+Clipping to a box works pretty well, but there's a problem.
+
+The route may wander outside of the bounds of a box built from the start point P and end point Q, when the orientation of the box is EW and NS.
+
+------
+
+One idea is to tilt the box.
+
+I wrote code to compute the orientation o between P -> Q in compass degrees.
+
+Start by computing the distance d from P -> Q, and make the long dimension of the box run along that axis the distance d.
+
+Build a box with sides of width 2w.
+
+The corners are at 
+P.x, P.y +/- w; and then P.x + d, P.y +/- w.
+
+Finally, rotate the box by o.
+
+

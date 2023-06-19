@@ -1,0 +1,29 @@
+It's fairly common to find that
+part of a highway is missing
+
+Sometimes it's a name issue
+Vernal-(UT-CO) US Hwy 40
+is actually E US Hwy 40
+
+Durango-Cortez 
+US Hwy 160 is missing a section
+that part is called Hwy 160
+
+Boulder-Estes Park State Rte 36
+
+Jerome-Sedona different names for 89A
+
+These can be diagnosed with search_CL.py
+and usually fixed w/non-strict search and just the number.
+
+-----
+
+(ID-MT)-West Yellowstone,
+US Hwy 20 works for MT
+
+what's missing is the next bit in WY
+and that is just missing
+
+Silverton-Durango US Hwy 550
+from Hermosa to about 10 miles N
+is just missing

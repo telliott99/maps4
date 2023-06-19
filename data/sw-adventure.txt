@@ -1,0 +1,114 @@
+-Scottsdale,AZ  [-111.890094,33.493274]
+State Rte 101
+Deer Valley,AZ [-112.113341,33.671126]
+I-17
+Camp Verde, AZ [-111.884452,34.577377]
+State Rte 260
+Cottonwood, AZ [-112.002727,34.721418]
+State Rte 89A
+Jerome, AZ [-112.114832,34.747834]
+State Rte 89A
+Sedona, AZ [-111.759061,34.871682]
+
+-Sedona, AZ [-111.759061,34.871682]
+N State Rte 89A
+Flagstaff, AZ [-111.663198,35.172888]
+US Hwy 180
+Grand Canyon Junction, AZ [-112.140820,35.652029]
+State Rte 64
+Grand Canyon Village, AZ [-112.105435,36.052405]
+
+-Grand Canyon Village, AZ [-112.105435,36.052405]
+State Rte 64
+Cameron, AZ [-111.425138,35.855010]
+US Hwy 89
+Bitter Springs, AZ [-111.653282,36.635060]
+US Hwy 89A
+Fredonia, AZ [-112.527926,36.943419]
+US Hwy 89A
+(AZ-UT) [-112.529749,37.000000]
+US Hwy 89A
+Kanab, UT [-112.526477,37.044838]
+US Hwy 89
+Mount Carmel Junction, UT [-112.680331,37.224323]
+State Rte 9
+Springdale, UT [-113.001044,37.187770]
+
+-Springdale, UT [-113.001044,37.187770]
+State Rte 9
+Mount Carmel Junction, UT [-112.680331,37.224323]
+US Hwy 89
+Panguitch, UT [-112.377692,37.749155]
+State Rte 12
+-Bryce Canyon City, UT [-112.153634,37.692875]
+
+Kanab, UT [-112.526311,37.000000]
+US Hwy 89
+(UT-AZ) [-111.573222,37.001798]
+State Rte 89
+Page, AZ [-111.489860,36.895829]
+
+Page, AZ [-111.489860,36.895829]
+State Rte 89
+89-98 Jct, AZ [-111.490304,36.895631]
+98
+98-160 Jct, AZ [-110.693668,36.451852]
+US Hwy 160 
+Kayenta, AZ [-110.247482,36.708265]
+US Hwy 163
+(AZ-UT) [-110.175181,37.000000]
+US Hwy 163
+163-191 Jct, UT [-109.625739,37.265494]
+US Hwy 191
+Bluff, UT [-109.570526,37.281412]
+
+-Bluff, UT [-109.570526,37.281412]
+State Rte 162
+(UT-CO) [-109.045552,37.149954]
+State Hwy 41
+41-160 Jct, CO [-108.959163,37.030926]
+US Hwy 160
+(CO-AZ) [-109.045168,37.000000]
+US Hwy 160
+Teec Nos Pos, AZ [-109.086710,36.920404]
+US Hwy 64
+(AZ-NM) [-109.045380,36.872117]
+US Hwy 64
+Shiprock, NM [-108.685609,36.784706]
+US Hwy 64
+Farmington, NM  [-108.253813,36.737944]
+State Hwy 170
+(NM-CO) [-108.186693,37.000000]
+State Hwy 140
+Durango, CO [-107.885123,37.268319]
+
+-Durango, CO [-107.885123,37.268319]
+US Hwy 160
+Pagosa Springs, CO [-107.011727,37.266445]
+
+-Pagosa Springs, CO [-107.011727,37.266445]
+US Hwy 160
+Walsenberg, CO [-104.768330,37.631711]
+I-25
+Apache City, CO [-104.828927,37.855685]
+670
+Colorado City, CO [-104.853646,37.935609]
+State Hwy 165
+-Rye, CO [-104.927546,37.923287]
+
+# side trip:
+
+Las Arenas, CO [-105.602621,37.475198]
+State Hwy 150
+Great Sand Dunes NP, CO [-105.505343,37.744874]
+
+Colorado City, CO [-104.853646,37.935609]
+I- 25
+Denver, CO [-104.991808,39.750460]
+
+# side trip:
+
+-Denver, CO [-104.991808,39.750460]
+US Hwy 6
+Golden, CO [-105.236480,39.754815]
+

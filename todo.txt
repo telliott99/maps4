@@ -1,0 +1,23 @@
+hawaii2
+plot the outlines
+
+annotate with index
+plotted at the centroid
+
+
+get Tim's data 
+
+surely there is a better way of finding which polygon is for which island?
+
+
+
+
+experiment with making smaller prisecroads files
+
+save_and_show_file
+needs context to choose the right output dir
+
+iroute_plot
+an all interstate route should not load state roads
+
+do some east coast examples

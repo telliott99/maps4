@@ -1,0 +1,184 @@
+Portland, OR [-122.671608,45.500795]
+US Hwy 26
+Mount Hood, OR [-121.741884,45.301975]
+US Hwy 26
+Prineville, OR [-120.859942,44.303650]
+US Hwy 26
+Prairie City, OR [-118.713342,44.462136]
+
+Prairie City, OR [-118.713342,44.462136]
+US Hwy 26
+Bates, OR [-118.500782,44.573755]
+State Hwy 7
+Baker City, OR [-117.829796,44.778326]
+I-84
+(OR-ID) [-116.941184,44.006133]
+I-84
+Boise, ID [-116.287711,43.596498]
+
+Boise, ID [-116.287711,43.596498]
+I-84
+Mountain Home, ID [-115.663994,43.140962]
+US Hwy 20
+Craters of the Moon NM, ID [-113.563916,43.461933]
+US Hwy 20
+Butte City, ID [-113.167464,43.607536]
+State Hwy 33
+Rexburg, ID [-111.812026,43.826891]
+
+Rexburg, ID [-111.812026,43.826891]
+US Hwy 20
+(ID-MT) [-111.276458,44.674429]
+US Hwy 20
+West Yellowstone, MT [-111.099871,44.662301]
+US Hwy 191
+(MT-WY) [-111.053357,44.651716]
+US Hwy 191
+Yellowstone NP, WY [-110.837448,44.457214]
+US Hwy 191
+Jackson, WY [-110.762357,43.479608]
+
+Jackson, WY [-110.762357,43.479608]
+US Hwy 191
+Rock Springs, WY [-109.231544,41.609527]
+I- 80
+Purple Sage, WY [-109.310433,41.557444]
+US Hwy 191
+(WY-UT) [-109.430980,41.000000]
+US Hwy 191
+Vernal, UT [-109.528467,40.455896]
+E US Hwy 40
+(UT-CO) [-109.050836,40.273204]
+US Hwy 40
+Steamboat Springs, CO [-106.838345,40.488410]
+
+Steamboat Springs, CO [-106.838345,40.488410]
+State Hwy 131
+Wolcott, CO [-106.678113,39.701350]
+I-70 
+Eagle-Vail, CO [-106.448988,39.608242]
+US Hwy 24
+Leadville, CO [-106.290791,39.265168]
+
+Leadville, CO [-106.290791,39.265168]
+US Hwy 24
+Colorado Springs, CO [-104.835618,38.827675]
+I-25
+Pueblo, CO [-104.605063,38.268088]
+
+# side trip to Pikes Peak, CO
+
+Pueblo, CO [-104.605063,38.268088]
+I-25
+Walsenberg, CO [-104.768673,37.632064]
+US Hwy 160
+Fort Garland, CO [-105.431215,37.427239]
+State Hwy 159
+(CO-NM) [-105.522391,36.995895]
+State Hwy 522
+Taos, NM [-105.573396,36.407205]
+State Hwy 68
+Rancho de Taos, NM [-105.604345,36.363219]
+State Hwy 518
+518-75 Jct, NM [-105.621318,36.177451]
+State Hwy 75
+75-76 Jct, NM [-105.706119,36.183548]
+State Hwy 76
+76-84 Jct, NM [-105.902567,36.003177]
+US Hwy 84
+Santa Fe, NM [-105.956871,35.635666]
+
+Santa Fe, NM [-105.956871,35.635666]
+US Hwy 285
+Carlsbad, NM [-104.229314,32.418182]
+US Hwy 285
+(NM-TX) [-104.031575,32.000000]
+
+(NM-TX) [-104.031575,32.000000]
+US Hwy 285
+Fort Stockton, TX [-102.910440,30.901539]
+I- 10
+Sonora, TX [-100.647725,30.578990]
+I- 10
+San Antonio, TX [-98.510952,29.396395]
+I- 10
+Houston,TX [-95.341418,29.769606]
+I- 10
+(TX-LA) [-93.701580,30.128066]
+I- 10
+Lake Charles, LA [-93.179550,30.247258]
+
+Lake Charles, LA [-93.179550,30.247258]
+I- 10
+Lafayette [-92.016225,30.259473]
+US Hwy 90
+Morgan City, LA [-91.198931,29.701302]
+US Hwy 90
+Mathews, LA [-90.573000,29.708227]
+US Hwy 90
+New Orleans, LA [-90.074628,29.963114]
+
+New Orleans, LA [-90.074628,29.963114]
+I- 10
+10-55 Jct, LA [-90.436200,30.088200]
+I- 55
+(LA-MS) [-90.505695,31]
+I- 55
+Jackson, MS [-90.186748,32.283148]
+I- 55
+Canton, MS [-90.034933,32.611369]
+Hwy 16
+Carthage, MS [-89.712617,32.703747]
+Natchez Trace Pkwy
+Kosciusko, MS [-89.568382,33.048635]
+Natchez Trace Pkwy
+Tupelo, MS [-88.725071,34.300130]
+
+Tupelo, MS [-88.725071,34.300130]
+Natchez Trace Pkwy
+(MS-AL) [-88.130818,34.644902]
+Natchez Trace Pkwy
+43-72 Jct, AL [-88.018448,34.761633]
+Natchez Trace Pkwy
+(AL-TN) [-87.821138,35.004461]
+Natchez Trace Pkwy
+Nashville, TN [-86.789402,36.156301]
+
+Nashville, TN [-86.789402,36.156301]
+I- 65
+(TN-KY) [-86.564176,36.633765]
+I- 65
+Louisville, KY [-85.753091,38.256220]
+
+Louisville, KY [-85.753091,38.256220]
+I- 64
+Lexington, KY [-84.430600,38.054714]
+I- 75
+North Corbin, KY [-84.111870,36.977806]
+25
+(KY-TN) [-83.676219,36.597911]
+25
+North Corbin, KY [-84.111870,36.977806]
+25E
+(KY-TN) [-83.670745,36.601443]
+State Rte 25
+Bean Station, TN [-83.287414,36.336161]
+11W
+Kingsport, TN [-82.582831,36.556636]
+I- 26
+Johnson City, TN [-82.338913,36.309259]
+
+Johnson City, TN [-82.338913,36.309259]
+I- 26
+(TN-NC) [-82.560587,35.957182]
+I- 26
+Asheville, NC [-82.562890,35.593015]
+I- 26
+(NC-SC) [-82.168332,35.194311]
+I- 26
+Columbia, SC [-81.107364,33.980997]
+I- 26
+Charleston, SC [-79.948624,32.793238]
+State Hwy 171
+Folly Beach, SC [-79.945089,32.659130]
+

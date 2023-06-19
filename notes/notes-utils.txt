@@ -1,0 +1,65 @@
+ustates.py
+
+string constants containing state data
+constructs dicts for same
+----------------------------------------
+box_helper.py
+
+given two points P and Q
+constructs a box
+rotated to point along P->Q
+----------------------------------------
+file_helper.py
+  usually imported as fh
+  imports ustates 
+
+keeps track of paths for file
+makes or retrieves dicts for FIPS and abbreviations
+has a simple version of 
+  read_file(path)
+
+get_timestamp constructs a stamp for temporary files
+so they are in sorted order by time of construction
+a clipped version of the result from time.time()
+so as not to be too large
+----------------------------------------
+format_helper.py
+  usually imported as fmt
+  imports box_helper
+
+contains class definitions for Point and Segment
+(and these have __repr__ to convert them to strings)
+contains
+  parse_point_str(point_str)
+  parse_segment_str(seg_str)
+  parse_route_str(route_str)
+----------------------------------------
+geodata_helper.py
+  usually imported as gh
+  imports file_helper and format_helper
+
+pretty obvious what this does
+----------------------------------------
+search_helper.py
+  usually imported as sh
+  imports file_helper
+
+implements both strict and non-strict matching
+----------------------------------------
+plot_helper.py
+  imports geodata_helper and file_helper
+
+plot_region
+plot_points
+plot_gdf
+save_and_show_file
+show_image
+----------------------------------------
+update_path.py
+
+a copy is in every directory containing scripts
+a hack to allow utils to be imported whether we do
+python3 scripts/my_script.py
+or cd to scripts and then call it
+
+

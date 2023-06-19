@@ -1,0 +1,5 @@
+The files in this directory are modules.
+
+They are not designed to be run as scripts.  Hence they are imported by say, test.py they should be imported as utils.file_helper.py etc.
+
+They should also not import each other.  I am working on sorting that out.

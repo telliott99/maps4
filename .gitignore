@@ -1,0 +1,8 @@
+.DSStore
+.DS_Store
+*/__pycache__
+*/__pycache__/*
+old*/*
+csv.source*/*
+*.pyc
+figs-tests/*
